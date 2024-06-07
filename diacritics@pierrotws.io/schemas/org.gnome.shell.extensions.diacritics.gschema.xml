@@ -1,0 +1,13 @@
+<!--
+    Strings for "type"-attribute: https://docs.gtk.org/glib/gvariant-format-strings.html
+-->
+<schemalist>
+    <schema id="org.gnome.shell.extensions.diacritics" path="/org/gnome/shell/extensions/diacritics/">
+        <!--configuration-->
+        <key name="delay" type="i">
+            <default>3</default>
+            <summary>The delay in seconds</summary>
+            <description>The delay in seconds</description>
+        </key>
+    </schema>
+</schemalist>

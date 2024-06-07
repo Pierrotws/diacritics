@@ -1,0 +1,11 @@
+{
+    "shell-version": [
+        "46"
+    ],
+    "uuid": "diacritics@pierrotws.io",
+    "name": "Diacritics",
+    "description": "Diacritics dialog chooser",
+    "original-author": "Pierre Sauvage",
+    "url": "https://github.com/Pierrotws/diacritics",
+    "gettext-domain": "diacritics"
+}
